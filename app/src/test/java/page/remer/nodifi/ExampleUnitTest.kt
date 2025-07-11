@@ -1,4 +1,4 @@
-package com.example.nodifi
+package page.remer.nodifi
 
 import org.junit.Test
 

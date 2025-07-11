@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nodifi"
+    namespace = "page.remer.nodifi"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.nodifi"
+        applicationId = "page.remer.nodifi"
         minSdk = 36
         targetSdk = 36
         versionCode = 1
