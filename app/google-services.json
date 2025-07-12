@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372053478506",
+    "project_id": "nodifi-1fa89",
+    "storage_bucket": "nodifi-1fa89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372053478506:android:fd90e5f049f9a05f724e13",
+        "android_client_info": {
+          "package_name": "page.remer.nodifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdoeC0Yg6dBLYfwua73qrsNsWiYJs_mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
